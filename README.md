@@ -106,9 +106,9 @@ namespace exp9
 
 ## Output:
 
-![img1]()
+![img1](https://github.com/ragulmani936/Interface/blob/main/img%202.png)
 
-![img2]()
+![img2](https://github.com/ragulmani936/Interface/blob/main/img%203.png)
 
 ## Result:
 C# program to develop a bank application using interface is implemented successfully.
